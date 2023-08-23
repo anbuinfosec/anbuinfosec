@@ -30,14 +30,11 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbuinfosec&langs_count=8&theme=react&bg_color=151515" />
 
-</p>
-
-<p align="center">
 
 <a href="https://github.com/anbuinfosec"><img alt="Anbuinfosec's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anbuinfosec&show_icons=true&count_private=true&theme=react&bg_color=151515" 
 /></a>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anbuinfosec&theme=black-ice" alt="0xAKXVAU"/></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anbuinfosec&theme=black-ice" alt="0xAKXVAU"/></p>
 
 <br/>
 
