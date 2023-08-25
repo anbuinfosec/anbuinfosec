@@ -31,7 +31,7 @@
 
 ---
 
-### ❤️ Thanks for start and forks
+### ❤️ Thanks for stars and forks
 [![Forkers repo roster for @anbuinfosec/anbuinfosec](https://reporoster.com/forks/dark/anbuinfosec/anbuinfosec)](https://github.com/anbuinfosec/anbuinfosec/network/members)
 [![Stargazers repo roster for @anbuinfosec/anbuinfosec](https://reporoster.com/stars/dark/anbuinfosec/anbuinfosec)](https://github.com/anbuinfosec/anbuinfosec/stargazers)
 
