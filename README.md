@@ -1,5 +1,5 @@
 <p align="left"><b><terminal>🔴 🟡 🟢</terminal></b></p>
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=22&pause=1000&color=F7F7F7&center=false&vCenter=true&width=440&lines=%24+Hey%2C+anbuinfosec+here+%3A)" />
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=22&pause=1000&color=F7F7F7&background=000000&center=false&vCenter=true&width=440&lines=%24+Hey%2C+anbuinfosec+here+%3A)" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anbuinfosec) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anbuinfosec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anbuinfosec) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anbuinfosec) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/anbuinfosec) 
