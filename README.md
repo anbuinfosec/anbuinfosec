@@ -1,7 +1,9 @@
-<p align="left"><b><terminal>🔴 🟡 🟢</terminal></b></p>
+<p align="center">
+    <img width="200" src="banner.png" alt="Banner anbuinfosec">
+</p>
+<p align="center">Hey there! I'm Mohammad Alamin**, a 17 Y/O backend developer from Rangpur. Currently studying Computer Science & Technology at Barisal Polytechnic Institute. Join me in exploring and creating new things in the digital world.</p>
 
-Hey there! I'm **Mohammad Alamin**, a **17 Y/O** **backend developer** from Rangpur. Currently studying **Computer Science & Technology** at **Barisal Polytechnic Institute**. Join me in exploring and creating new things in the digital world.
-
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anbuinfosec) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anbuinfosec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anbuinfosec) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anbuinfosec) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/anbuinfosec) 
 
@@ -29,9 +31,3 @@ Hey there! I'm **Mohammad Alamin**, a **17 Y/O** **backend developer** from Rang
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anbuinfosec&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-### ❤️ Thanks for stars and forks
-[![Forkers repo roster for @anbuinfosec/anbuinfosec](https://reporoster.com/forks/dark/anbuinfosec/anbuinfosec)](https://github.com/anbuinfosec/anbuinfosec/network/members)
-[![Stargazers repo roster for @anbuinfosec/anbuinfosec](https://reporoster.com/stars/dark/anbuinfosec/anbuinfosec)](https://github.com/anbuinfosec/anbuinfosec/stargazers)
