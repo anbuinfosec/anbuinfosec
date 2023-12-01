@@ -15,54 +15,9 @@
 ---
 
 ### 📊 GitHub Stats:
-
-<div align="center">
-  <a href="https://github.com/anbuinfosec">
-    <table>
-      <tr>
-        <td align="center">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anbuinfosec&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-        </td>
-        <td align="center">
-          <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anbuinfosec&theme=dark&hide_border=false" />
-        </td>
-      </tr>
-    </table>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/anbuinfosec">
-    <table>
-      <tr>
-        <td align="center">
-          <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anbuinfosec&theme=github_dark" />
-        </td>
-        <td align="center">
-          <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anbuinfosec&theme=github_dark" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anbuinfosec&theme=github_dark" />
-        </td>
-        <td align="center">
-          <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anbuinfosec&theme=github_dark&utcOffset=8" />
-        </td>
-      </tr>
-    </table>
-  </a>
-</div>
-
-<div align="center">
-  <a href="">
-    <tr>
-        <td align="center">
-          <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anbuinfosec&theme=github_dark" />
-        </td>
-      </tr>
-  </a>
-</div>
-
+![](https://github-readme-stats.vercel.app/api?username=anbuinfosec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anbuinfosec&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anbuinfosec&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 ### 👀 Total profile visitors
@@ -75,26 +30,4 @@
 
 
 ### 🔝 Top Contributed Repo
-
-
-<div align="center">
-  <a href="https://github.com/anbuinfosec">
-    <tr>
-        <td align="center">
-          <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=anbuinfosec&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-        </td>
-      </tr>
-  </a>
-</div>
-
-### 📈 Activity Graph
-
-<div align="center">
-  <a href="https://github.com/anbuinfosec">
-    <tr>
-        <td align="center">
-          <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=anbuinfosec&theme=react-dark" />
-        </td>
-      </tr>
-  </a>
-</div>
+![](https://github-contributor-stats.vercel.app/api?username=anbuinfosec&limit=5&theme=dark&combine_all_yearly_contributions=true)
