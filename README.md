@@ -17,7 +17,7 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anbuinfosec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anbuinfosec&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anbuinfosec&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anbuinfosec&layout=donut-vertical&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ---
 ### 👀 Total profile visitors
@@ -31,3 +31,12 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anbuinfosec&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 🔝 Top repo's
+
+<p align="center">
+  <a href="https://github.com/anbuinfosec/wipwn">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=wipwn&theme=dark" />
+  </a>
+
+</p>
