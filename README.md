@@ -1,7 +1,7 @@
 <p align="center">
     <img width="200" src="banner.png" alt="Banner anbuinfosec">
 </p>
-<p align="center">Hey there! I'm Mohammad Alamin, a 17 Y/O backend developer from Rangpur. Currently studying Computer Science & Technology at Barisal Polytechnic Institute. Join me in exploring and creating new things in the digital world.</p>
+<p align="center">Hey there! I'm Mohammad Alamin, a 18 Y/O backend developer from Rangpur. Currently studying Computer Science & Technology at Barisal Polytechnic Institute. Join me in exploring and creating new things in the digital world.</p>
 
 ---
 ## 🌐 Socials:
