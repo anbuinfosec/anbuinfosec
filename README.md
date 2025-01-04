@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=anbuinfosec&data=followers,repositories,stars,commits" alt="Banner anbuinfosec">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=anbuinfosec&data=followers,repositories,stars,commits&theme=darkmode" alt="Banner anbuinfosec">
 </p>
 <p align="center">Hey there! I'm Mohammad Alamin, a 18 Y/O backend developer from Rangpur. Currently studying Computer Science & Technology at Barisal Polytechnic Institute. Join me in exploring and creating new things in the digital world.</p>
 
