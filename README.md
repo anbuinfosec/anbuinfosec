@@ -21,7 +21,7 @@
 
 ---
 ### 👀 Total profile visitors
-[![](https://visitcount.itsvg.in/api?id=anbuinfosec&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=anbuinfosec&label=Profile%20Views&color=12&icon=1&pretty=false)](https://anbuinfosec.xyz)
 
 ---
 
