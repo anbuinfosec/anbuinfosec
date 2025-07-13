@@ -1,42 +1,96 @@
 <p align="center">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=anbuinfosec&data=followers,repositories,stars,commits&theme=darkmode" alt="Banner anbuinfosec">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=anbuinfosec&data=followers,repositories,stars,commits&theme=darkmode" />
 </p>
-<p align="center">Hey there! I'm Mohammad Alamin, a 19 Y/O backend developer from Rangpur. Currently studying Computer Science & Technology at Barisal Polytechnic Institute. Join me in exploring and creating new things in the digital world.</p>
-
----
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anbuinfosec3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anbuinfosec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anbuinfosec) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/akxvau) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/anbuinfosec) 
 
 ---
 
-## 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=flat&logo=glitch&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+## 🧠 Developer Bio as Code
+
+```js
+const MohammadAlamin = {
+  alias: "anbuinfosec",
+  fullName: "Mohammad Alamin",
+  age: 19,
+  country: "🇧🇩 Bangladesh",
+  currentCity: "Rangpur",
+  education: {
+    institute: "Barisal Polytechnic Institute",
+    department: "Computer Science & Technology",
+  },
+  work: {
+    role: "Backend Developer",
+    stack: ["Node.js", "Express", "MongoDB", "Go", "Python"],
+    interests: ["Bot Dev", "Security Research", "Cloud Tools"],
+    currentlyLearning: ["TypeScript", "CI/CD", "OAuth2", "Reverse Engineering"],
+  },
+  socials: {
+    website: "https://anbuinfosec.xyz",
+    github: "https://github.com/anbuinfosec",
+    linkedin: "https://linkedin.com/in/anbuinfosec",
+    youtube: "https://youtube.com/akxvau"
+  }
+};
+````
 
 ---
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anbuinfosec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anbuinfosec&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anbuinfosec&layout=donut-vertical&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://facebook.com/anbuinfosec"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/anbuinfosec"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/anbuinfosec"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://youtube.com/akxvau"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://codepen.io/anbuinfosec"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+</p>
 
 ---
-### 👀 Total profile visitors
-[![](https://count.getloli.com/get/@anbuinfosec?theme=rule34)](https://anbuinfosec.xyz)
+
+## 🛠 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,go,php,python,kotlin,bash&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,mongodb,firebase,sqlite,gcp,azure,cloudflare,heroku,linux&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,ps&theme=dark" />
+</p>
 
 ---
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anbuinfosec&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anbuinfosec&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anbuinfosec&theme=midnight-purple&hide_border=false" height="180"/>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anbuinfosec&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbuinfosec&layout=donut-vertical&theme=midnight-purple&hide_border=false" />
+</p>
 
-### 🔝 Top repo's
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anbuinfosec&theme=gruvbox&margin-w=10&no-bg=true&row=1&column=8" />
+</p>
+
+---
+
+## 🚀 Featured Repo
 
 <p align="center">
   <a href="https://github.com/anbuinfosec/wipwn">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=wipwn&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=wipwn&theme=midnight-purple" />
   </a>
+</p>
 
+---
+
+## 📈 Visitor Counter
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@anbuinfosec?theme=moebooru" />
 </p>
