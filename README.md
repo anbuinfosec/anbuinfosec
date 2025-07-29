@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Developer Bio as Code
+## 🧠 Bio
 
 ```js
 const MohammadAlamin = {
@@ -84,6 +84,14 @@ const MohammadAlamin = {
 <p align="center">
   <a href="https://github.com/anbuinfosec/wipwn">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=wipwn&theme=midnight-purple" />
+  </a>
+
+  <a href="https://github.com/anbuinfosec/Goat-WhatsApp-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=Goat-WhatsApp-Bot&theme=midnight-purple" />
+  </a>
+  
+  <a href="https://github.com/anbuinfosec/BD-SMS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=BD-SMS&theme=midnight-purple" />
   </a>
 </p>
 
