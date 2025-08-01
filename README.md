@@ -57,22 +57,10 @@ const anbuinfosec = {
 
 ---
 
-## 📈 GitHub Stats & Insights
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=anbuinfosec&theme=tokyonight&show_icons=true&count_private=true" 
-    height="180" alt="GitHub Stats" 
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbuinfosec&layout=donut-vertical&theme=tokyonight" 
-    height="180" alt="Top Languages" 
-  />
-
-</div>
-
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anbuinfosec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anbuinfosec&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anbuinfosec&layout=donut-vertical&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ---
 
 
