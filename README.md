@@ -59,16 +59,22 @@ const anbuinfosec = {
 
 ## 📈 GitHub Stats & Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anbuinfosec&theme=tokyonight&show_icons=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=anbuinfosec&theme=tokyonight" height="180" alt="GitHub Streak" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbuinfosec&layout=donut-vertical&theme=tokyonight" alt="Top Languages" />
-</p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=anbuinfosec&theme=tokyonight&show_icons=true&count_private=true" 
+    height="180" alt="GitHub Stats" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbuinfosec&layout=donut-vertical&theme=tokyonight" 
+    height="180" alt="Top Languages" 
+  />
+
+</div>
 
 ---
+
 
 ## 🛰️ Contribution Graph
 
