@@ -1,72 +1,78 @@
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=anbuinfosec&data=followers,repositories,stars,commits&theme=darkmode" />
+  <img src="./assets/banner.png" height="70" alt="My Banner" />
+</p>
+
+<h1 align="center">Hi, I'm Mohammad Alamin (<code>anbuinfosec</code>)</h1>
+<h4 align="center">Backend Developer • Security Enthusiast • Open-Source Contributor</h4>
+
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=anbuinfosec&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Stats Widget" />
 </p>
 
 ---
 
-## 🧠 Bio
+## 🧠 About Me
 
 ```js
-const MohammadAlamin = {
+const anbuinfosec = {
+  name: "Mohammad Alamin",
   alias: "anbuinfosec",
-  fullName: "Mohammad Alamin",
-  age: 19,
-  country: "🇧🇩 Bangladesh",
-  currentCity: "Rangpur",
-  education: {
-    institute: "Barisal Polytechnic Institute",
-    department: "Computer Science & Technology",
-  },
-  work: {
-    role: "Backend Developer",
-    stack: ["Node.js", "Express", "MongoDB", "Go", "Python"],
-    interests: ["Bot Dev", "Security Research", "Cloud Tools"],
-    currentlyLearning: ["TypeScript", "CI/CD", "OAuth2", "Reverse Engineering"],
-  },
-  socials: {
-    website: "https://anbuinfosec.xyz",
-    github: "https://github.com/anbuinfosec",
-    linkedin: "https://linkedin.com/in/anbuinfosec",
-    youtube: "https://youtube.com/akxvau"
-  }
+  location: "Rangpur, 🇧🇩 Bangladesh",
+  role: "Backend Developer & Cybersecurity Enthusiast",
+  stack: ["Node.js", "Go", "MongoDB", "Python"],
+  learning: ["OAuth2", "CI/CD", "Reverse Engineering"]
 };
 ````
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://facebook.com/anbuinfosec"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/anbuinfosec"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/anbuinfosec"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://youtube.com/akxvau"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://codepen.io/anbuinfosec"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+  <a href="https://t.me/anbuinfosec" target="_blank"><img src="https://img.shields.io/badge/Telegram%20(Me)-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Me" /></a>
+  <a href="https://t.me/infosecdevs" target="_blank"><img src="https://img.shields.io/badge/Telegram%20(Channel)-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" /></a>
+  <a href="https://linkedin.com/in/anbuinfosec" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@anbuinfosec" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://anbuinfosec.xyz" target="_blank"><img src="https://img.shields.io/badge/Website-00ACEE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
 
-## 🛠 Tech Arsenal
+## 💻 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,go,php,python,kotlin,bash&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,mongodb,firebase,sqlite,gcp,azure,cloudflare,heroku,linux&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,ps&theme=dark" />
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
+  <img alt="Node.js" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
+  <img alt="Express" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" />
+  <img alt="Go" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" />
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
+  <img alt="Bash" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" />
+  <img alt="PHP" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" />
+  <img alt="MongoDB" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" />
+  <img alt="MySql" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
+  <img alt="Firebase" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Stats & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anbuinfosec&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anbuinfosec&theme=midnight-purple&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anbuinfosec&theme=tokyonight&show_icons=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=anbuinfosec&theme=tokyonight" height="180" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbuinfosec&layout=donut-vertical&theme=midnight-purple&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbuinfosec&layout=donut-vertical&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🛰️ Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anbuinfosec&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -74,31 +80,29 @@ const MohammadAlamin = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anbuinfosec&theme=gruvbox&margin-w=10&no-bg=true&row=1&column=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anbuinfosec&theme=tokyonight&margin-w=10&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🚀 Featured Repo
+## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/anbuinfosec/wipwn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=wipwn&theme=midnight-purple" />
+  <a href="https://github.com/anbuinfosec/wipwn" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=wipwn&theme=tokyonight" alt="wipwn Repo" />
   </a>
-
-  <a href="https://github.com/anbuinfosec/Goat-WhatsApp-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=Goat-WhatsApp-Bot&theme=midnight-purple" />
+  <a href="https://github.com/anbuinfosec/Goat-WhatsApp-Bot" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=Goat-WhatsApp-Bot&theme=tokyonight" alt="Goat-WhatsApp-Bot Repo" />
   </a>
-  
-  <a href="https://github.com/anbuinfosec/BD-SMS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=BD-SMS&theme=midnight-purple" />
+  <a href="https://github.com/anbuinfosec/BD-SMS" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=BD-SMS&theme=tokyonight" alt="BD-SMS Repo" />
   </a>
 </p>
 
 ---
 
-## 📈 Visitor Counter
+## 👁️ Visitor Counter
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@anbuinfosec?theme=moebooru" />
+  <img src="https://count.getloli.com/get/@anbuinfosec?theme=moebooru" alt="Visitor Count" />
 </p>
