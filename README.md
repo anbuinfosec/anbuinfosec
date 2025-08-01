@@ -29,8 +29,9 @@ const anbuinfosec = {
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://facebook.com/anbuinfosec" target="_blank"><img src="https://img.shields.io/badge/Facebook-2CA5E0?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://t.me/anbuinfosec" target="_blank"><img src="https://img.shields.io/badge/Telegram%20(Me)-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Me" /></a>
-  <a href="https://t.me/infosecdevs" target="_blank"><img src="https://img.shields.io/badge/Telegram%20(Channel)-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" /></a>
+  <a href="https://t.me/anbuinfosec_official" target="_blank"><img src="https://img.shields.io/badge/Telegram%20(Channel)-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" /></a>
   <a href="https://linkedin.com/in/anbuinfosec" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://youtube.com/@anbuinfosec" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://anbuinfosec.xyz" target="_blank"><img src="https://img.shields.io/badge/Website-00ACEE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
