@@ -68,7 +68,7 @@ const anbuinfosec = {
 ## 🛰️ Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
