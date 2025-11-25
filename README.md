@@ -71,12 +71,33 @@ const anbuinfosec = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anbuinfosec&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anbuinfosec&theme=tokyonight&margin-w=10&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🔥 Top Projects
+
+<!-- TOP-PROJECTS-LIST:START -->
+<!-- TOP-PROJECTS-LIST:END -->
+
+---
+
+## 📈 Most Active Repository
+
+<p align="center">
+  <a href="https://github.com/anbuinfosec/wipwn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=wipwn&theme=radical" alt="Most Active Repository" />
+  </a>
 </p>
 
 ---
@@ -91,11 +112,6 @@ const anbuinfosec = {
 <p align="center">
   <a href="https://github.com/anbuinfosec/Goat-WhatsApp-Bot" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=Goat-WhatsApp-Bot&theme=tokyonight" alt="Goat-WhatsApp-Bot Repo" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/anbuinfosec/BD-SMS" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=BD-SMS&theme=tokyonight" alt="BD-SMS Repo" />
   </a>
 </p>
 

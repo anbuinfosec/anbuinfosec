@@ -1,0 +1,8 @@
+{
+  "name": "readme-updater",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@octokit/rest": "^20.0.2"
+  }
+}
