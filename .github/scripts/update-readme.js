@@ -31,10 +31,25 @@ async function getTopProjects() {
   return topProjects.join('\n');
 }
 
+async function getRecentProjects() {
+  const { data: repos } = await octokit.repos.listForAuthenticatedUser({
+    sort: "pushed",
+    per_page: 100
+  });
+
+  const recentProjects = repos
+    .filter(repo => !repo.fork)
+    .slice(0, 3)
+    .map(repo => `<p align="center">\n  <a href="${repo.html_url}" target="_blank">\n    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=${repo.name}&theme=tokyonight" alt="${repo.name} Repo" />\n  </a>\n</p>`);
+
+  return recentProjects.join('\n');
+}
+
 async function updateReadme() {
-  const [topProjects, mostActiveRepo] = await Promise.all([
+  const [topProjects, mostActiveRepo, recentProjects] = await Promise.all([
     getTopProjects(),
-    getMostActiveRepo()
+    getMostActiveRepo(),
+    getRecentProjects()
   ]);
   
   let readme = await fs.readFile('README.md', 'utf8');
@@ -54,6 +69,16 @@ async function updateReadme() {
   const newMostActiveRepoContent = `<a href="${mostActiveRepo.html_url}">\n    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=${mostActiveRepo.name}&theme=radical" alt="Most Active Repository" />\n  </a>`;
 
   readme = readme.replace(mostActiveRepoRegex, newMostActiveRepoContent);
+
+  // Update recent projects
+  const recentProjectsStartToken = '<!-- RECENT-PROJECTS:START -->';
+  const recentProjectsEndToken = '<!-- RECENT-PROJECTS:END -->';
+  const newRecentProjectsContent = `${recentProjectsStartToken}\n${recentProjects}\n${recentProjectsEndToken}`;
+  
+  readme = readme.replace(
+    new RegExp(`${recentProjectsStartToken}[\\s\\S]*${recentProjectsEndToken}`),
+    newRecentProjectsContent
+  );
   
   await fs.writeFile('README.md', readme);
 }

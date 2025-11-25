@@ -98,28 +98,11 @@ const anbuinfosec = {
 
 ---
 
-## 📈 Most Active Repository
 
-<p align="center">
-  <a href="https://github.com/anbuinfosec/anbuinfosec">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=anbuinfosec&theme=radical" alt="Most Active Repository" />
-  </a>
-</p>
+## 🚀 Recent Projects
 
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/anbuinfosec/wipwn" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=wipwn&theme=tokyonight" alt="wipwn Repo" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/anbuinfosec/Goat-WhatsApp-Bot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=Goat-WhatsApp-Bot&theme=tokyonight" alt="Goat-WhatsApp-Bot Repo" />
-  </a>
-</p>
+<!-- RECENT-PROJECTS:START -->
+<!-- RECENT-PROJECTS:END -->
 
 ---
 
