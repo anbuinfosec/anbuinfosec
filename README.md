@@ -84,6 +84,16 @@ const anbuinfosec = {
 ## 🔥 Top Projects
 
 <!-- TOP-PROJECTS-LIST:START -->
+- [wipwn](https://github.com/anbuinfosec/wipwn) - Hack wifi using termux (rooted).
+- [BD-SMS](https://github.com/anbuinfosec/BD-SMS) - BD-SMS Bomber: Python3 Tool for Spamming SMS in Bangladesh Phone Numbers.
+- [ar-bomb](https://github.com/anbuinfosec/ar-bomb) - A python tool for sms bombing only Robi and Airtel numbers.
+- [social-bot](https://github.com/anbuinfosec/social-bot) - A simple python social media video downloader bot.
+- [fca-unofficial](https://github.com/anbuinfosec/fca-unofficial) - Unofficial Facebook Chat API for Nodejs.
+- [safetynet-fix-mod-Zygisk](https://github.com/anbuinfosec/safetynet-fix-mod-Zygisk) - Google SafetyNet attestation workarounds for Magisk.
+- [anonsms](https://github.com/anbuinfosec/anonsms) - A simple project for sending custom sms on bd numbers.
+- [social-bot-v2](https://github.com/anbuinfosec/social-bot-v2) - A simple python social media video downloader bot.
+- [anbuanime](https://github.com/anbuinfosec/anbuanime) - A free anime streaming restful API serving anime from GogoAnime.
+- [bdix-tester](https://github.com/anbuinfosec/bdix-tester) - A Python3 Tool for BDIX Servers Testing.
 <!-- TOP-PROJECTS-LIST:END -->
 
 ---
@@ -91,8 +101,8 @@ const anbuinfosec = {
 ## 📈 Most Active Repository
 
 <p align="center">
-  <a href="https://github.com/anbuinfosec/wipwn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=wipwn&theme=radical" alt="Most Active Repository" />
+  <a href="https://github.com/anbuinfosec/anbuinfosec">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=anbuinfosec&theme=radical" alt="Most Active Repository" />
   </a>
 </p>
 
