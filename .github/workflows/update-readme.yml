@@ -28,7 +28,7 @@ jobs:
       - name: Install dependencies
         run: |
           cd .github/scripts
-          npm install @octokit/rest
+          npm install @octokit/rest --no-save
 
       - name: Update README
         env:
