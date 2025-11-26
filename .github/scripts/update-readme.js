@@ -38,9 +38,9 @@ async function getRecentProjects() {
   });
 
   const recentProjects = repos
-    .filter(repo => !repo.fork)
+    .filter(repo => !repo.fork && repo.name !== 'anbuinfosec')
     .slice(0, 3)
-    .map(repo => `<p align="center">\n  <a href="${repo.html_url}" target="_blank">\n    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbuinfosec&repo=${repo.name}&theme=tokyonight" alt="${repo.name} Repo" />\n  </a>\n</p>`);
+    .map(repo => `- [${repo.name}](${repo.html_url}) - ${repo.description || 'No description'}`);
 
   return recentProjects.join('\n');
 }
