@@ -102,6 +102,9 @@ const anbuinfosec = {
 ## 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
+- [anbuai](https://github.com/anbuinfosec/anbuai) - No description
+- [mardec](https://github.com/anbuinfosec/mardec) - Auto Deobfuscator is a powerful Python tool that automatically detects and decodes multiple layers of obfuscation in Python files. It supports various encoding and compression schemes and iteratively processes files until clean, readable Python code is obtained.
+- [Goat-WhatsApp-Bot](https://github.com/tas33n/Goat-WhatsApp-Bot) - A clean, modular, and production-ready WhatsApp chatbot using personal accounts via Baileys.
 <!-- RECENT-PROJECTS:END -->
 
 ---
