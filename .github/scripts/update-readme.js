@@ -23,7 +23,7 @@ async function getTopProjects() {
   });
 
   const topProjects = repos
-    .filter(repo => !repo.fork)
+    .filter(repo => !repo.fork && !repo.archived)
     .sort((a, b) => b.stargazers_count - a.stargazers_count)
     .slice(0, 10)
     .map(repo => `- [${repo.name}](${repo.html_url}) - ${repo.description || 'No description'}`);
@@ -38,7 +38,7 @@ async function getRecentProjects() {
   });
 
   const recentProjects = repos
-    .filter(repo => !repo.fork && repo.name !== 'anbuinfosec')
+    .filter(repo => !repo.fork && !repo.archived && repo.name !== 'anbuinfosec')
     .slice(0, 3)
     .map(repo => `- [${repo.name}](${repo.html_url}) - ${repo.description || 'No description'}`);
 
