@@ -85,15 +85,15 @@ const anbuinfosec = {
 
 <!-- TOP-PROJECTS-LIST:START -->
 - [wipwn](https://github.com/anbuinfosec/wipwn) - Hack wifi using termux (rooted).
-- [BD-SMS](https://github.com/anbuinfosec/BD-SMS) - BD-SMS Bomber: Python3 Tool for Spamming SMS in Bangladesh Phone Numbers.
 - [ar-bomb](https://github.com/anbuinfosec/ar-bomb) - A python tool for sms bombing only Robi and Airtel numbers.
-- [social-bot](https://github.com/anbuinfosec/social-bot) - A simple python social media video downloader bot.
 - [fca-unofficial](https://github.com/anbuinfosec/fca-unofficial) - Unofficial Facebook Chat API for Nodejs.
 - [safetynet-fix-mod-Zygisk](https://github.com/anbuinfosec/safetynet-fix-mod-Zygisk) - Google SafetyNet attestation workarounds for Magisk.
 - [anonsms](https://github.com/anbuinfosec/anonsms) - A simple project for sending custom sms on bd numbers.
 - [social-bot-v2](https://github.com/anbuinfosec/social-bot-v2) - A simple python social media video downloader bot.
 - [anbuanime](https://github.com/anbuinfosec/anbuanime) - A free anime streaming restful API serving anime from GogoAnime.
 - [bdix-tester](https://github.com/anbuinfosec/bdix-tester) - A Python3 Tool for BDIX Servers Testing.
+- [anbuinfosec](https://github.com/anbuinfosec/anbuinfosec) - Profile :)
+- [OsintXplorer](https://github.com/anbuinfosec/OsintXplorer) - An advanced Open Source Intelligence (OSINT) command-line tool built in Python for gathering information from multiple platforms and data sources. It supports scanning emails, phone numbers, IP addresses, domain names, usernames, and metadata extraction from files.
 <!-- TOP-PROJECTS-LIST:END -->
 
 ---
@@ -102,7 +102,7 @@ const anbuinfosec = {
 ## 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
-- [anbuai](https://github.com/anbuinfosec/anbuai) - No description
+- [anbuai](https://github.com/anbuinfosec/anbuai) - A modern, multilingual AI interface platform powered by Next.js 16, featuring advanced chat capabilities and image generation.
 - [mardec](https://github.com/anbuinfosec/mardec) - Auto Deobfuscator is a powerful Python tool that automatically detects and decodes multiple layers of obfuscation in Python files. It supports various encoding and compression schemes and iteratively processes files until clean, readable Python code is obtained.
 - [Goat-WhatsApp-Bot](https://github.com/tas33n/Goat-WhatsApp-Bot) - A clean, modular, and production-ready WhatsApp chatbot using personal accounts via Baileys.
 <!-- RECENT-PROJECTS:END -->
