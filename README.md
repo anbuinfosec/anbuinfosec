@@ -92,8 +92,8 @@ const anbuinfosec = {
 - [social-bot-v2](https://github.com/anbuinfosec/social-bot-v2) - A simple python social media video downloader bot.
 - [anbuanime](https://github.com/anbuinfosec/anbuanime) - A free anime streaming restful API serving anime from GogoAnime.
 - [bdix-tester](https://github.com/anbuinfosec/bdix-tester) - A Python3 Tool for BDIX Servers Testing.
+- [burp-pro-mac](https://github.com/anbuinfosec/burp-pro-mac) - Burp Suite Professional Activation free.
 - [anbuinfosec](https://github.com/anbuinfosec/anbuinfosec) - Profile :)
-- [OsintXplorer](https://github.com/anbuinfosec/OsintXplorer) - An advanced Open Source Intelligence (OSINT) command-line tool built in Python for gathering information from multiple platforms and data sources. It supports scanning emails, phone numbers, IP addresses, domain names, usernames, and metadata extraction from files.
 <!-- TOP-PROJECTS-LIST:END -->
 
 ---
