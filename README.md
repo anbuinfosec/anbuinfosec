@@ -92,8 +92,8 @@ const anbuinfosec = {
 - [social-bot-v2](https://github.com/anbuinfosec/social-bot-v2) - A simple python social media video downloader bot.
 - [anbuanime](https://github.com/anbuinfosec/anbuanime) - A free anime streaming restful API serving anime from GogoAnime.
 - [bdix-tester](https://github.com/anbuinfosec/bdix-tester) - A Python3 Tool for BDIX Servers Testing.
-- [burp-pro-mac](https://github.com/anbuinfosec/burp-pro-mac) - Burp Suite Professional Activation free.
 - [anbuinfosec](https://github.com/anbuinfosec/anbuinfosec) - Profile :)
+- [burp-pro-mac](https://github.com/anbuinfosec/burp-pro-mac) - Burp Suite Professional Activation free.
 <!-- TOP-PROJECTS-LIST:END -->
 
 ---
