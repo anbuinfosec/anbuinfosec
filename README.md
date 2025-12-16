@@ -102,9 +102,9 @@ const anbuinfosec = {
 ## 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
+- [github-rankings](https://github.com/anbuinfosec/github-rankings) - Lightweight Next.js app that generates country-based GitHub ranking badges and a searchable list of top users by country.
 - [anbuai](https://github.com/anbuinfosec/anbuai) - A modern, multilingual AI interface platform powered by Next.js 16, featuring advanced chat capabilities and image generation.
 - [iconhub](https://github.com/anbuinfosec/iconhub) - A modern, responsive icon gallery web application for browsing and managing your icon collection. Built with vanilla JavaScript, Bootstrap 5, and a beautiful gradient UI design.
-- [mardec](https://github.com/anbuinfosec/mardec) - Auto Deobfuscator is a powerful Python tool that automatically detects and decodes multiple layers of obfuscation in Python files. It supports various encoding and compression schemes and iteratively processes files until clean, readable Python code is obtained.
 <!-- RECENT-PROJECTS:END -->
 
 ---
