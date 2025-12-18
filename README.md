@@ -6,7 +6,7 @@
 <h4 align="center">Backend Developer • Security Enthusiast • Open-Source Contributor</h4>
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=anbuinfosec&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Stats Widget" />
+  <img src="https://github-rankings.vercel.app/api/badge/anbuinfosec?theme=dark" alt="GitHub Stats Widget" />
 </p>
 
 ---
