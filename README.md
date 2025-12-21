@@ -93,7 +93,7 @@ const anbuinfosec = {
 - [social-bot-v2](https://github.com/anbuinfosec/social-bot-v2) - A simple python social media video downloader bot.
 - [anbuanime](https://github.com/anbuinfosec/anbuanime) - A free anime streaming restful API serving anime from GogoAnime.
 - [bdix-tester](https://github.com/anbuinfosec/bdix-tester) - A Python3 Tool for BDIX Servers Testing.
-- [fastboot-cmds](https://github.com/anbuinfosec/fastboot-cmds) - ADB and Fastboot commands are powerful tools for Android users to troubleshoot and fix common device issues. This guide provides a list of essential commands and tips to help you take control of your device.
+- [anbuinfosec](https://github.com/anbuinfosec/anbuinfosec) - Profile :)
 <!-- TOP-PROJECTS-LIST:END -->
 
 ---
