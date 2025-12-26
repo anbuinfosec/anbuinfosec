@@ -102,9 +102,9 @@ const anbuinfosec = {
 ## 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
+- [bkash-pgw](https://github.com/anbuinfosec/bkash-pgw) - bKash Payment Gateway Integration with Next.js
 - [github-rankings](https://github.com/anbuinfosec/github-rankings) - Lightweight Next.js app that generates country-based GitHub ranking badges and a searchable list of top users by country.
 - [anbuai](https://github.com/anbuinfosec/anbuai) - A modern, multilingual AI interface platform powered by Next.js 16, featuring advanced chat capabilities and image generation.
-- [iconhub](https://github.com/anbuinfosec/iconhub) - A modern, responsive icon gallery web application for browsing and managing your icon collection. Built with vanilla JavaScript, Bootstrap 5, and a beautiful gradient UI design.
 <!-- RECENT-PROJECTS:END -->
 
 ---
