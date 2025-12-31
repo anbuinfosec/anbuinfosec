@@ -86,10 +86,10 @@ const anbuinfosec = {
 <!-- TOP-PROJECTS-LIST:START -->
 - [wipwn](https://github.com/anbuinfosec/wipwn) - Hack wifi using termux (rooted).
 - [ar-bomb](https://github.com/anbuinfosec/ar-bomb) - A python tool for sms bombing only Robi and Airtel numbers.
+- [flipper-ble-detector](https://github.com/anbuinfosec/flipper-ble-detector) - A Python tool that detects Flipper Zero devices and BLE spam attacks using Bluetooth Low Energy (BLE) scanning. This tool focuses on identifying malicious BLE advertisements including iOS/Android popup spam, device spoofing, and Flipper Zero presence.
 - [fca-unofficial](https://github.com/anbuinfosec/fca-unofficial) - Unofficial Facebook Chat API for Nodejs.
 - [safetynet-fix-mod-Zygisk](https://github.com/anbuinfosec/safetynet-fix-mod-Zygisk) - Google SafetyNet attestation workarounds for Magisk.
 - [anonsms](https://github.com/anbuinfosec/anonsms) - A simple project for sending custom sms on bd numbers.
-- [flipper-ble-detector](https://github.com/anbuinfosec/flipper-ble-detector) - A Python tool that detects Flipper Zero devices and BLE spam attacks using Bluetooth Low Energy (BLE) scanning. This tool focuses on identifying malicious BLE advertisements including iOS/Android popup spam, device spoofing, and Flipper Zero presence.
 - [burp-pro-mac](https://github.com/anbuinfosec/burp-pro-mac) - Burp Suite Professional Activation free.
 - [social-bot-v2](https://github.com/anbuinfosec/social-bot-v2) - A simple python social media video downloader bot.
 - [anbuanime](https://github.com/anbuinfosec/anbuanime) - A free anime streaming restful API serving anime from GogoAnime.
