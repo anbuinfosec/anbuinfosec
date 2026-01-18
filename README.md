@@ -102,8 +102,8 @@ const anbuinfosec = {
 ## 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
-- [ai-chat-app](https://github.com/anbuinfosec/ai-chat-app) - A modern, feature-rich AI chat application powered by OpenRouter's API, providing access to hundreds of free AI models with an intuitive interface.
 - [bkash-pgw](https://github.com/anbuinfosec/bkash-pgw) - bKash Payment Gateway Integration with Next.js
+- [ai-chat-app](https://github.com/anbuinfosec/ai-chat-app) - A modern, feature-rich AI chat application powered by OpenRouter's API, providing access to hundreds of free AI models with an intuitive interface.
 - [github-rankings](https://github.com/anbuinfosec/github-rankings) - Lightweight Next.js app that generates country-based GitHub ranking badges and a searchable list of top users by country.
 <!-- RECENT-PROJECTS:END -->
 
