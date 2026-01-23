@@ -5,10 +5,6 @@
 <h1 align="center">Hi, I'm Mohammad Alamin (<code>anbuinfosec</code>)</h1>
 <h4 align="center">Backend Developer • Security Enthusiast • Open-Source Contributor</h4>
 
-<p align="center">
-  <img src="https://github-rankings.vercel.app/api/badge/anbuinfosec?theme=dark" alt="GitHub Stats Widget" />
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -28,40 +24,80 @@ const anbuinfosec = {
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://facebook.com/anbuinfosec" target="_blank"><img src="https://img.shields.io/badge/Facebook-2CA5E0?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://t.me/anbuinfosec" target="_blank"><img src="https://img.shields.io/badge/Telegram%20(Me)-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Me" /></a>
-  <a href="https://t.me/anbuinfosec_official" target="_blank"><img src="https://img.shields.io/badge/Telegram%20(Channel)-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" /></a>
-  <a href="https://linkedin.com/in/anbuinfosec" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="[https://youtube.com/@anbuinfosec](https://www.youtube.com/@anbuinfosec?sub_confirmation=1)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://anbuinfosec.dev" target="_blank"><img src="https://img.shields.io/badge/Website-00ACEE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-</p>
+###
+
+<div align="center">
+  <a href="https://www.facebook.com/anbuinfosec/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/anbuinfosec" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/AnbuSoft" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://x.com/anbuinfosec" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@anbuinfosec?sub_confirmation=1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
 
 ---
 
 ## 💻 Tech Stack & Skills
 
-<p align="center">
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
-  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
-  <img alt="Node.js" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
-  <img alt="Express" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" />
-  <img alt="Go" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" />
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-  <img alt="Bash" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" />
-  <img alt="PHP" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" />
-  <img alt="Java" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
-  <img alt="MongoDB" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" />
-  <img alt="MySql" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
-  <img alt="Firebase" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+</div>
 
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anbuinfosec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anbuinfosec&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anbuinfosec&layout=donut-vertical&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/anbuinfosec/contributions?format=svg&private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=anbuinfosec)  
 ---
 
 
