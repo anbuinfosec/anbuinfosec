@@ -92,12 +92,18 @@ const anbuinfosec = {
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anbuinfosec&layout=donut-vertical&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+## 📊 GitHub Stats And Others:
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/anbuinfosec/contributions?format=svg&private=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbuinfosec&layout=donut-vertical&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://api.vaunt.dev/v1/github/entities/anbuinfosec/contributions?format=svg&private=true" alt="Vaunt Badge" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anbuinfosec&theme=dark)](https://git.io/streak-stats" alt="GitHub streak stats" />
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=anbuinfosec)  
 ---
 
 
