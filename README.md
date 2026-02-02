@@ -132,10 +132,10 @@ const anbuinfosec = {
 - [fca-unofficial](https://github.com/anbuinfosec/fca-unofficial) - Unofficial Facebook Chat API for Nodejs.
 - [safetynet-fix-mod-Zygisk](https://github.com/anbuinfosec/safetynet-fix-mod-Zygisk) - Google SafetyNet attestation workarounds for Magisk.
 - [anonsms](https://github.com/anbuinfosec/anonsms) - A simple project for sending custom sms on bd numbers.
+- [fastboot-cmds](https://github.com/anbuinfosec/fastboot-cmds) - ADB and Fastboot commands are powerful tools for Android users to troubleshoot and fix common device issues. This guide provides a list of essential commands and tips to help you take control of your device.
 - [burp-pro-mac](https://github.com/anbuinfosec/burp-pro-mac) - Burp Suite Professional Activation free.
 - [social-bot-v2](https://github.com/anbuinfosec/social-bot-v2) - A simple python social media video downloader bot.
 - [anbuanime](https://github.com/anbuinfosec/anbuanime) - A free anime streaming restful API serving anime from GogoAnime.
-- [bdix-tester](https://github.com/anbuinfosec/bdix-tester) - A Python3 Tool for BDIX Servers Testing.
 <!-- TOP-PROJECTS-LIST:END -->
 
 ---
