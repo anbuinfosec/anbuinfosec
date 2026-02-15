@@ -92,21 +92,6 @@ const anbuinfosec = {
 
 ---
 
-## 📊 GitHub Stats And Others:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbuinfosec&layout=donut-vertical&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://api.vaunt.dev/v1/github/entities/anbuinfosec/contributions?format=svg&private=true" alt="Vaunt Badge" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anbuinfosec&theme=dark)](https://git.io/streak-stats" alt="GitHub streak stats" />
-</p>
-
----
-
-
 ## 🛰️ Contribution Graph
 
 <p align="center">
@@ -115,13 +100,7 @@ const anbuinfosec = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anbuinfosec&theme=tokyonight&margin-w=10&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 🔥 Top Projects
 
