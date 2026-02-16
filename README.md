@@ -123,9 +123,9 @@ const anbuinfosec = {
 ## 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
+- [RamadanCompanionV1](https://github.com/anbuinfosec/RamadanCompanionV1) - No description
+- [ramadan-ocr](https://github.com/anbuinfosec/ramadan-ocr) - No description
 - [QuackLab](https://github.com/anbuinfosec/QuackLab) - Quacklab is a static, browser-based tool that lets you visually build Flipper Zero compatible Ducky Script HID payloads without writing a single line of code. Perfect for beginners and security enthusiasts who want to learn about HID attacks ethically.
-- [bkash-pgw](https://github.com/anbuinfosec/bkash-pgw) - bKash Payment Gateway Integration with Next.js
-- [ai-chat-app](https://github.com/anbuinfosec/ai-chat-app) - A modern, feature-rich AI chat application powered by OpenRouter's API, providing access to hundreds of free AI models with an intuitive interface.
 <!-- RECENT-PROJECTS:END -->
 
 ---
