@@ -123,9 +123,9 @@ const anbuinfosec = {
 ## 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
+- [RamadanCompanionApk](https://github.com/anbuinfosec/RamadanCompanionApk) - No description
 - [RamadanCompanionV1](https://github.com/anbuinfosec/RamadanCompanionV1) - No description
 - [ramadan-ocr](https://github.com/anbuinfosec/ramadan-ocr) - No description
-- [QuackLab](https://github.com/anbuinfosec/QuackLab) - Quacklab is a static, browser-based tool that lets you visually build Flipper Zero compatible Ducky Script HID payloads without writing a single line of code. Perfect for beginners and security enthusiasts who want to learn about HID attacks ethically.
 <!-- RECENT-PROJECTS:END -->
 
 ---
