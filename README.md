@@ -123,9 +123,9 @@ const anbuinfosec = {
 ## 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
-- [RamadanCompanionApk](https://github.com/anbuinfosec/RamadanCompanionApk) - No description
-- [RamadanCompanionV1](https://github.com/anbuinfosec/RamadanCompanionV1) - No description
+- [RamadanCompanionApk](https://github.com/anbuinfosec/RamadanCompanionApk) - Complete Ramadan Timetable & Companion App for Bangladesh
 - [ramadan-ocr](https://github.com/anbuinfosec/ramadan-ocr) - No description
+- [RamadanCompanionV1](https://github.com/anbuinfosec/RamadanCompanionV1) - No description
 <!-- RECENT-PROJECTS:END -->
 
 ---
