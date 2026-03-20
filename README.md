@@ -123,9 +123,9 @@ const anbuinfosec = {
 ## 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
+- [DeshiPay-Web](https://github.com/anbuinfosec/DeshiPay-Web) - No description
 - [pixiewps-extend](https://github.com/anbuinfosec/pixiewps-extend) - No description
 - [wipwn](https://github.com/anbuinfosec/wipwn) - Hack wifi using termux (rooted).
-- [RamadanCompanionApk](https://github.com/anbuinfosec/RamadanCompanionApk) - Complete Ramadan Timetable & Companion App for Bangladesh
 <!-- RECENT-PROJECTS:END -->
 
 ---
