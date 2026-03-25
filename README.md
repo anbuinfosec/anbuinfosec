@@ -114,7 +114,7 @@ const anbuinfosec = {
 - [flipper-ble-detector](https://github.com/anbuinfosec/flipper-ble-detector) - A Python tool that detects Flipper Zero devices and BLE spam attacks using Bluetooth Low Energy (BLE) scanning. This tool focuses on identifying malicious BLE advertisements including iOS/Android popup spam, device spoofing, and Flipper Zero presence.
 - [safetynet-fix-mod-Zygisk](https://github.com/anbuinfosec/safetynet-fix-mod-Zygisk) - Google SafetyNet attestation workarounds for Magisk.
 - [anonsms](https://github.com/anbuinfosec/anonsms) - A simple project for sending custom sms on bd numbers.
-- [fastboot-cmds](https://github.com/anbuinfosec/fastboot-cmds) - ADB and Fastboot commands are powerful tools for Android users to troubleshoot and fix common device issues. This guide provides a list of essential commands and tips to help you take control of your device.
+- [Goat-WhatsApp-Bot](https://github.com/tas33n/Goat-WhatsApp-Bot) - A clean, modular, and production-ready WhatsApp chatbot using personal accounts via Baileys.
 <!-- TOP-PROJECTS-LIST:END -->
 
 ---
