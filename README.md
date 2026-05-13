@@ -107,8 +107,8 @@ const anbuinfosec = {
 <!-- TOP-PROJECTS-LIST:START -->
 - [wipwn](https://github.com/anbuinfosec/wipwn) - Hack wifi using termux (rooted).
 - [ar-bomb](https://github.com/anbuinfosec/ar-bomb) - A python tool for sms bombing only Robi and Airtel numbers.
-- [flipper-ble-detector](https://github.com/anbuinfosec/flipper-ble-detector) - A Python tool that detects Flipper Zero devices and BLE spam attacks using Bluetooth Low Energy (BLE) scanning. This tool focuses on identifying malicious BLE advertisements including iOS/Android popup spam, device spoofing, and Flipper Zero presence.
 - [fastboot-cmds](https://github.com/anbuinfosec/fastboot-cmds) - ADB and Fastboot commands are powerful tools for Android users to troubleshoot and fix common device issues. This guide provides a list of essential commands and tips to help you take control of your device.
+- [flipper-ble-detector](https://github.com/anbuinfosec/flipper-ble-detector) - A Python tool that detects Flipper Zero devices and BLE spam attacks using Bluetooth Low Energy (BLE) scanning. This tool focuses on identifying malicious BLE advertisements including iOS/Android popup spam, device spoofing, and Flipper Zero presence.
 - [burp-pro-mac](https://github.com/anbuinfosec/burp-pro-mac) - Burp Suite Professional Activation free.
 - [bkash-pgw](https://github.com/anbuinfosec/bkash-pgw) - bKash Payment Gateway Integration with Next.js
 - [fca-unofficial](https://github.com/anbuinfosec/fca-unofficial) - Unofficial Facebook Chat API for Nodejs.
