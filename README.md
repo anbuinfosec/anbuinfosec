@@ -112,9 +112,9 @@ const anbuinfosec = {
 - [burp-pro-mac](https://github.com/anbuinfosec/burp-pro-mac) - Burp Suite Professional Activation free.
 - [bkash-pgw](https://github.com/anbuinfosec/bkash-pgw) - bKash Payment Gateway Integration with Next.js
 - [fca-unofficial](https://github.com/anbuinfosec/fca-unofficial) - Unofficial Facebook Chat API for Nodejs.
+- [anonsms](https://github.com/anbuinfosec/anonsms) - A simple project for sending custom sms on bd numbers.
 - [anbuanime](https://github.com/anbuinfosec/anbuanime) - A free anime streaming restful API serving anime from GogoAnime.
 - [Goat-WhatsApp-Bot](https://github.com/tas33n/Goat-WhatsApp-Bot) - A clean, modular, and production-ready WhatsApp chatbot using personal accounts via Baileys.
-- [mardec](https://github.com/anbuinfosec/mardec) - Auto Deobfuscator is a powerful Python tool that automatically detects and decodes multiple layers of obfuscation in Python files. It supports various encoding and compression schemes and iteratively processes files until clean, readable Python code is obtained.
 <!-- TOP-PROJECTS-LIST:END -->
 
 ---
