@@ -112,9 +112,9 @@ const anbuinfosec = {
 - [fastboot-cmds](https://github.com/anbuinfosec/fastboot-cmds) - ADB and Fastboot commands are powerful tools for Android users to troubleshoot and fix common device issues. This guide provides a list of essential commands and tips to help you take control of your device.
 - [bkash-pgw](https://github.com/anbuinfosec/bkash-pgw) - bKash Payment Gateway Integration with Next.js
 - [burp-pro-mac](https://github.com/anbuinfosec/burp-pro-mac) - Burp Suite Professional Activation free.
+- [anbuanime](https://github.com/anbuinfosec/anbuanime) - A free anime streaming restful API serving anime from GogoAnime.
 - [fca-unofficial](https://github.com/anbuinfosec/fca-unofficial) - Unofficial Facebook Chat API for Nodejs.
 - [anonsms](https://github.com/anbuinfosec/anonsms) - A simple project for sending custom sms on bd numbers.
-- [anbuanime](https://github.com/anbuinfosec/anbuanime) - A free anime streaming restful API serving anime from GogoAnime.
 <!-- TOP-PROJECTS-LIST:END -->
 
 ---
