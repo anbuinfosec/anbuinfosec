@@ -123,9 +123,9 @@ const anbuinfosec = {
 ## 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
+- [wipwn](https://github.com/anbuinfosec/wipwn) - Hack wifi using termux (rooted).
 - [EspElectrycityMonitor](https://github.com/anbuinfosec/EspElectrycityMonitor) - No description
 - [node-simipro](https://github.com/anbuinfosec/node-simipro) - Unofficial SimSimi API nodejs.
-- [pixiewps-extend](https://github.com/anbuinfosec/pixiewps-extend) - Enhanced and extended version of the Pixiewps offline WPS PIN brute-force tool.
 <!-- RECENT-PROJECTS:END -->
 
 ---
