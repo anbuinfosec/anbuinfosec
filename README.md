@@ -123,9 +123,9 @@ const anbuinfosec = {
 ## 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
+- [capsnap](https://github.com/anbuinfosec/capsnap) - A pure-Python CAPTCHA solver & OCR engine — built from scratch, zero dependencies.
 - [wipwn](https://github.com/anbuinfosec/wipwn) - Hack wifi using termux (rooted).
 - [EspElectrycityMonitor](https://github.com/anbuinfosec/EspElectrycityMonitor) - No description
-- [node-simipro](https://github.com/anbuinfosec/node-simipro) - Unofficial SimSimi API nodejs.
 <!-- RECENT-PROJECTS:END -->
 
 ---
