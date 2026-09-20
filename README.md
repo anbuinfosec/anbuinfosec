@@ -113,8 +113,8 @@ const anbuinfosec = {
 - [bkash-pgw](https://github.com/anbuinfosec/bkash-pgw) - bKash Payment Gateway Integration with Next.js
 - [mardec](https://github.com/anbuinfosec/mardec) - Auto Deobfuscator is a powerful Python tool that automatically detects and decodes multiple layers of obfuscation in Python files. It supports various encoding and compression schemes and iteratively processes files until clean, readable Python code is obtained.
 - [anbuanime](https://github.com/anbuinfosec/anbuanime) - A free anime streaming restful API serving anime from GogoAnime.
+- [pixiewps-extend](https://github.com/anbuinfosec/pixiewps-extend) - Enhanced and extended version of the Pixiewps offline WPS PIN brute-force tool.
 - [burp-pro-mac](https://github.com/anbuinfosec/burp-pro-mac) - Burp Suite Professional Activation free.
-- [fca-unofficial](https://github.com/anbuinfosec/fca-unofficial) - Unofficial Facebook Chat API for Nodejs.
 <!-- TOP-PROJECTS-LIST:END -->
 
 ---
