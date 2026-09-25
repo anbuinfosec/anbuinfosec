@@ -123,7 +123,7 @@ const anbuinfosec = {
 ## 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
-- [BtebResultApp](https://github.com/anbuinfosec/BtebResultApp) - No description
+- [BtebResultApp](https://github.com/anbuinfosec/BtebResultApp) - Fast, Modern & Complete Academic Portal for Bangladesh Technical Education Board (BTEB) Polytechnic Students.
 - [wipwn](https://github.com/anbuinfosec/wipwn) - Hack wifi using termux (rooted).
 - [sim-finder](https://github.com/anbuinfosec/sim-finder) - No description
 <!-- RECENT-PROJECTS:END -->
